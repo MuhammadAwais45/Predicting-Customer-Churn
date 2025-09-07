@@ -26,25 +26,20 @@ streamlit run app.py
 ```
 
 ✨ Add batch predictions via CSV upload
+
 ✨ Deploy Streamlit app on Streamlit Cloud / Render / Heroku
+
 ✨ Use SHAP for model explainability
 
+
 🛠️ Tech Stack
-
 🐍 Python
-
 📊 Pandas, NumPy
-
 ⚡ Scikit-learn
-
 🚀 XGBoost (GPU)
-
 📉 Matplotlib
-
 🌐 Streamlit
-
 💾 Joblib
-
 🙌 Acknowledgements
 
 ## 📂 Dataset: Telco Customer Churn (Kaggle)
